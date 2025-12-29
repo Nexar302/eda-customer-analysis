@@ -1,0 +1,11 @@
+customer_id,age,gender,annual_income,spending_score,category
+1,23,Male,15000,39,Electronics
+2,25,Female,18000,81,Clothing
+3,31,Male,35000,6,Grocery
+4,22,Female,12000,77,Cosmetics
+5,35,Male,42000,40,Electronics
+6,40,Female,52000,76,Clothing
+7,29,Male,30000,12,Grocery
+8,41,Female,58000,94,Cosmetics
+9,50,Male,67000,3,Grocery
+10,34,Female,40000,65,Electronics
