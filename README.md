@@ -14,4 +14,8 @@ The dataset contains demographic and spending information of customers.
 - Visualization (histogram, boxplot, correlation)
 
 ## Key Insights
-(To be filled after analysis)
+- Income distribution shows noticeable variability with potential outliers.
+- Female customers tend to have higher spending scores than male customers.
+- Cosmetic category customers demonstrate the highest purchasing engagement.
+- Annual income and spending score exhibit weak correlation.
+
